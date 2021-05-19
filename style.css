@@ -1,0 +1,91 @@
+
+.top-nav{
+    font-size: large;
+    position: fixed;
+    z-index: 1;
+}
+.sub-nav{
+    position: fixed;
+    z-index: 1;
+    margin-top: 43px;
+}
+.image1{
+    border-radius:50px ;
+    margin-left: 15%;
+}
+ .sub-nav2  li{
+    position: relative;
+    bottom: 50px;
+    padding: 10px;
+}
+.image2{
+    margin-top: 10rem;
+    max-width: 200px;
+    margin-left: 8rem;
+    margin-bottom: 10px;
+} 
+.text1{
+    margin-left:8rem ;
+}
+.image3{
+    margin-top: 10rem;
+    margin-bottom: 10px; 
+} 
+.footer-sect{
+    height: 50px;
+}
+.image4{
+    position: relative;
+    top: 30px;
+    left: 100px;
+    border-radius: 20px;
+}
+.image5{
+    position: relative;
+    bottom: 50px;
+    left: 16rem;
+}
+.text2{
+    position: relative;
+    right: 10rem;
+    top: 1rem;
+}
+.about{
+    margin-left: 8rem;
+}
+.text3{
+   margin: 3rem 0rem 2rem 0rem;
+}
+.image6{
+    margin-left: 11rem;
+    margin-top:1rem;
+    border-radius: 10px;
+}
+.image7{
+    margin-right: 10rem;
+    margin-top: 1rem;
+    margin-left: 5rem;
+}
+.image8{
+    margin-left: 1rem;
+    border-radius: 30px;
+}
+.text4{
+    margin-left: 25rem;
+    width: 700px;
+}
+.image9{
+    margin-left: 13rem;
+}
+.text5{
+    margin-top: 1rem;
+}
+.text6{
+    width: 300px;
+}
+.text7{
+    width: 350px;
+}
+.text8{
+    margin-right: 5rem;
+}
